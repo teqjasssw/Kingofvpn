@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2FBFA4</color>
+    <color name="colorPrimaryDark">#269b85</color>
+    <color name="colorAccent">#356690</color>
+
+    <color name="popUpBg">#ffffff</color>
+    <color name="listDivider">#356690</color>
+
+    <color name="mapFill">#269b85</color>
+    <color name="mapStroke">#7f7f7f</color>
+    <color name="mapBackground">#e2e2e2</color>
+    <color name="mapNameCountry">#00ffffff</color>
+    <color name="mapLine">#ffffff</color>
+
+    <color name="toolbarTitle">#ffffff</color>
+    <color name="toolbarTitleking">#2FBFA4</color>
+    <color name="toolbarBg">#356690</color>
+
+    <color name="buttonText">#269b85</color>
+    <color name="buttonBg">#ffffff</color>
+
+    <color name="totalServers">#ffffff</color>
+
+    <color name="infoServersList">#1c3f61</color>
+
+    <color name="ratingNot">#A7A7A7</color>
+
+    <color name="activeServer">#cbecfd</color>
+    <color name="additionalServer">#F1DD77</color>
+
+    <color name="serverNameBg">#cbecfd</color>
+    <color name="serverName">#356690</color>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aboutApp">
+        <b>Introduction</b>
+        \nAndroid application which lets you effectively to associate with various free VPN server around the globe with only a solitary tap!
+        The rundown of servers the application interface is http://www.vpngate.net VPN Gate Academic Experiment Project is an online administration as a scholastic research at Graduate School of University of Tsukuba, Japan. The reason for this examination is to extend the learning of \"Global Distributed Public VPN Relay Servers\".
+        \n\n<b>Why VPN Gate?</b>
+        \nYou can take these preferences by utilizing VPN Gate:
+
+\n * It is around 8531 Public VPN Relay Servers by volunteers far and wide.
+
+\n * You can camouflage your IP deliver to shroud your personality while surfing the Internet.
+
+\n * You can secure yourself by using its solid encryption while utilizing open Wi-Fi.
+
+\nUnlike customary VPN administrations, VPN Gate can get past generally firewalls.
+
+\nVPN Gate is complimentary. Not a solitary enrollment is required.
+        \n\n<b>License</b>
+        \n <i>Free Software!</i>
+        \nhttps://www.gnu.org/licenses/gpl-3.0.en.html
+        \nThis application uses the following components; see the source code for full details on the licenses.
+        \n * OpenVPN for Android https://github.com/schwabe/ics-openvpn under GPLv2
+        \n * NumberProgressBar https://github.com/daimajia/NumberProgressBar under MIT
+        \n * Fast-Android-Networking https://github.com/amitshekhariitbhu/Fast-Android-Networking under Apache 2.0
+        \n\n<b>You can help</b>
+        \nRegardless of whether you are not a software engineer you can help by interpreting the King Of VPN customer into your local dialect. </string>
+</resources>
