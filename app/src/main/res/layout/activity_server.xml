@@ -222,7 +222,7 @@
                     android:text="@string/what_is_my_ip"
                     android:textAllCaps="false"
                     android:textSize="17sp"
-                    android:textColor="@color/buttonBg"
+                    android:textColor="@color/buttonText"
                     android:background="@null"
                     android:onClick="serverOnClick"/>
 

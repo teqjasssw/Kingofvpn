@@ -35,20 +35,20 @@ android {
     productFlavors {
         free {
             applicationId "com.kingofvpn.kingofvpn"
-            resValue "string", "app_name", "King Of VPN"
-            resValue "string", "notification_title", "King Of VPN - %s"
+            resValue "string", "app_name", "King of VPN"
+            resValue "string", "notification_title", "King of VPN - %s"
         }
 
         pro {
             applicationId "com.kingofvpn.kingofvpn"
-            resValue "string", "app_name", "King Of VPN"
-            resValue "string", "notification_title", "King Of VPN - %s"
+            resValue "string", "app_name", "King of VPN"
+            resValue "string", "notification_title", "King of VPN - %s"
         }
 
         underground {
             applicationId "com.kingofvpn.kingofvpn"
-            resValue "string", "app_name", "King Of VPN"
-            resValue "string", "notification_title", "King Of VPN - %s"
+            resValue "string", "app_name", "King of VPN"
+            resValue "string", "notification_title", "King of VPN - %s"
         }
     }
 

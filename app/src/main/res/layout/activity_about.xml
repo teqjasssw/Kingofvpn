@@ -14,7 +14,7 @@
         android:id="@+id/appVersion"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="King Of VPN"
+        android:text="King of VPN"
         android:autoLink="web"/>
     <ScrollView
         android:layout_width="match_parent"
